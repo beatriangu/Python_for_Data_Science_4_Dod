@@ -11,3 +11,6 @@ Kinda same as 01 with extra functionality
 
 Exercise 03
 Dataclass and field option
+<p align="left">
+  <img src="https://github.com/beatriangu/Libft/blob/main/100.png?raw=true" alt="100.png" width="150"/>
+</p>
